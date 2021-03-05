@@ -5,16 +5,16 @@ The Horiseon website is designed for giving information regarding to online navi
 
 it is divided in three sections the header where three diferent links can be found:
 
-*Search Engine Optimization
-*Online Reputation Management
-*Social Media Marketing
+* Search Engine Optimization
+* Online Reputation Management
+* Social Media Marketing
 
 the body of the website describes three main concepts
 
 
-*Search Engine Optimization
-*Online Reputation Management
-*Social Media Marketing
+* Search Engine Optimization
+* Online Reputation Management
+* Social Media Marketing
 
 And finally a columnn to the side where three concepts are descrived:
 
